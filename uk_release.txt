@@ -1,3 +1,4 @@
 [
 "viv.reminderApp:0.43.64",  // SRUK:en back to en-US and training verifications
+"viv.something:0.0.0"
 ]
