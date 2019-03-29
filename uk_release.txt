@@ -1,0 +1,3 @@
+[
+"version (0.43.64)",  // SRUK:en back to en-US and training verifications
+]
